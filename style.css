@@ -1,0 +1,46 @@
+.line {
+    width: 70px;
+    background-color: black;
+    height: 6px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+#Apps {
+    color: deepskyblue;
+    background-color: aliceblue;
+}
+
+#Websites {
+    color: aquamarine;
+    background-color: blue;
+}
+
+#Games {
+    color: azure;
+    background-color: darkblue;
+}
+
+#Chatbots {
+    color: cornflowerblue;
+    background-color: darkslateblue;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
